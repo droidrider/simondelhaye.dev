@@ -4,7 +4,7 @@ title = 'Blog de Simon DELHAYE'
 theme = 'anatole'
 
 [params]
-title = "Blog de Simon Delhaye"
+title = "Mon blog"
 author = "Simon Delhaye"
 description = ""
 profilePicture = "/images/profile.png"
