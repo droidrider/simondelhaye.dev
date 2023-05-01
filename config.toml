@@ -7,4 +7,4 @@ theme = 'anatole'
 title = "Blog de Simon Delhaye"
 author = "Simon Delhaye"
 description = ""
-profilePicture = "public/images/profile.jpg"
+profilePicture = "/images/profile.png"
