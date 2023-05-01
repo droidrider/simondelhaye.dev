@@ -2,3 +2,9 @@ baseURL = 'https://simondelhaye.dev/'
 languageCode = 'fr-FR'
 title = 'Blog de Simon DELHAYE'
 theme = 'anatole'
+
+[params]
+title = "Blog de Simon Delhaye"
+author = "Simon Delhaye"
+description = "Call me Jane"
+profilePicture = "images/profile.jpg"
